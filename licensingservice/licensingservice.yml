@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT FROM GITHUB 修改。"
+example.property: "I AM IN THE DEFAULT FROM GITHUB 修改再修改。"
 spring.jpa.database: "MYSQL"
 #spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
